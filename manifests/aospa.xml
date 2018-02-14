@@ -202,6 +202,10 @@
   <remove-project name="platform/vendor/qcom-opensource/wlan/qca-wifi-host-cmn"/>
   <remove-project name="platform/vendor/qcom-opensource/wlan/qcacld-3.0"/>
   <remove-project name="platform/vendor/qcom-opensource/wlan/utils/sigma-dut"/>
+  <remove-project name="platform/vendor/qcom-opensource/tools"/>
+  <remove-project name="platform/vendor/qcom-opensource/shortcut-fe"/>
+  <remove-project name="platform/vendor/qcom-opensource/mmc-utils"/>
+  <remove-project name="platform/vendor/qcom-opensource/fst-manager"/>
   <remove-project name="platform/vendor/qcom/cobalt"/>
   <remove-project name="platform/vendor/qcom/cobalt_32"/>
   <remove-project name="platform/vendor/qcom/falcon_32"/>
